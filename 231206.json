@@ -7,7 +7,7 @@
           "name": "Yoursmile7",
           "type":"0",
           "pass": true,
-          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/lives/live.txt",
+          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
