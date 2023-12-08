@@ -1,1 +1,3 @@
-
+央视,#genre#
+CCTV1,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv1_1_720P/playlist.m3u8?wsApp=HLS
+卫视,#genre#
